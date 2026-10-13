@@ -16,7 +16,7 @@ I'm a Computer Science graduate from the University of Dundee, passionate about 
 
 I'm currently developing and organising my software engineering portfolio, including full-stack web development, mobile applications, Java, databases and embedded systems.
 
-## 🎯 Career Goals
+## Career Goals
 
 Interested in graduate and junior software engineering opportunities across the UK.
 
