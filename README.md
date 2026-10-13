@@ -5,14 +5,14 @@
 
 I'm a Computer Science graduate from the University of Dundee, passionate about building practical, user-focused software applications.
 
-## 💻 Technical Skills
+## Technical Skills
 
 - **Languages:** Java, Python, C++, JavaScript, SQL
 - **Frontend & Mobile:** HTML, CSS, Tailwind CSS, React Native
 - **Databases:** MySQL, MongoDB, Firebase
 - **Tools & Technologies:** Git, GitHub, Docker, AWS
 
-## 🚀 Projects
+## Projects
 
 I'm currently developing and organising my software engineering portfolio, including full-stack web development, mobile applications, Java, databases and embedded systems.
 
